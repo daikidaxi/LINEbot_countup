@@ -1,1 +1,7 @@
-# LINEbot_countup
+### 残りの日数をカウントしてくれる LINEbotです
+
+GAS(Google apps script)を用いて作ったアプリのjavascriptのコードです。
+
+LINE botで自分の予定を入力すると、その日までの残りの日数を表示してくれるbotとなります。
+
+Google ドライブ にスプレッドシートを作りその中のスクリプトエディタの中に記述されているコードとなります。
