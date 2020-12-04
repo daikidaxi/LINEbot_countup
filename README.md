@@ -1,4 +1,4 @@
-### 残りの日数をカウントしてくれる LINEbotです
+### 残りの日数をカウントする LINEbot
 
 GAS(Google apps script)を用いて作ったアプリのjavascriptのコードです。
 
